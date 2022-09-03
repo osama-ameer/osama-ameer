@@ -26,4 +26,4 @@ I have been working in the software industry for over 1.5 years in which I have 
 
 Besides these technical skills. I am also familiar with different methodologies of software engineering Agile, Scrum, Lean Startup, and Design Thinking.
 
-** How to reach me: Shoot me email at osamaameer15@gmail.com **
+** **How to reach me: Shoot me email at osamaameer15@gmail.com 
