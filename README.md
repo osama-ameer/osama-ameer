@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ### Who Am I?
-I am a Software Engineer. I work on MERN Stack and have expertise in developing complex web and cross-platform mobile applications on ReactJS/React Native with different UI libraries. 
+Software Engineer having expertise in developing complex web and cross-platform mobile applications on ReactJS/React Native with different UI libraries. 
 
 I have been working in the software industry for over 3 years in which I have accumulated a vast amount of knowledge and experience in all areas of the Full Stack SDLC including architecture and design, development, implementation, integration, and deployment. 
 
 ### I’m currently working on :
 I've been developing internet-scale apps with MERN Stack technology.
 
-- Frontend: React, React Native, State Management, Redux, WordPress, Tailwind CSS, Material UI, Bootstrap and other libraries
+- Frontend: React, NextJS, TypeScript, React Native, Redux, WordPress, Tailwind CSS, Material UI, Bootstrap and other libraries
 - Backend: Express & NodeJS 
 - Database: MongoDB Atlas
 - Cloud Provider: Heroku/Netlify/Firebase
