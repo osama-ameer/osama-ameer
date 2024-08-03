@@ -22,11 +22,11 @@ I have been working in the software industry for over 3 years in which I have ac
 ### I’m currently working on :
 I've been developing internet-scale apps with MERN Stack technology.
 
-- Frontend: React, NextJS, TypeScript, React Native, Redux, WordPress, Tailwind CSS, Material UI, Bootstrap and other libraries
-- Backend: Express & NodeJS 
-- Database: MongoDB Atlas
+- Frontend: React, NextJS, TypeScript, React Native, Redux, Redux Thunk, WordPress, Tailwind CSS, Ant Design, Material UI, Bootstrap and other libraries
+- Backend: Express, Firbase, NestJS, NodeJS 
+- Database: MongoDB, Redis, SQL
 - Cloud Provider: Heroku/Netlify/Firebase
-- CI/CD: GitHub Actions /Git
+- CI/CD: GitHub Actions / Bitbuck Pipelines 
 
 Besides these technical skills. I am also familiar with different methodologies of software engineering Agile, Scrum, Lean Startup, and Design Thinking.
 
